@@ -4,7 +4,7 @@
 base_info:
   title: XuanRan's Blog
   author: XuanRan
-  url: XuanRanDev.github.io
+  url: blog.XuanRan.work
   # Logo image (You can use local image, image external link or don’t fill)
   logo_img:
 
@@ -102,9 +102,9 @@ post:
   # Author label
   author_label:
     enable: true
-    auto: true # if true, show Lv1, Lv2, Lv3... , If false, show custom label
+    auto: false # if true, show Lv1, Lv2, Lv3... , If false, show custom label
     # label array item can be one or more
-    custom_label_list: ["Trainee", "Engineer", "Architect", "CTO", "BOSS"]
+    custom_label_list: ["Author"]
 
 # ---------------------------------------------------------------------------------------
 # Code copy

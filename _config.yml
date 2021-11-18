@@ -215,7 +215,7 @@ pjax:
 footer:
   since: 2020 # the starting year of your website, Can be null
   icp: 豫ICP备2021032317号 # ICP record number of your website, Can be null
-  upyun: https://beian.miit.gov.cn/ # url
+  upyun: # url
 
 # ---------------------------------------------------------------------------------------
 # Keep version (Please don't modify)
